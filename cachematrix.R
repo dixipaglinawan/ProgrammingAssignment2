@@ -1,5 +1,4 @@
-## These functions will create and find the inverse of a matrix
-## functions do
+## These functions will create and find the inverse of a matrix.
 
 ## This function creates a "matrix" object that can cache its inverse
 
